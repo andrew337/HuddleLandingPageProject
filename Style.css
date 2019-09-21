@@ -1,0 +1,18 @@
+body {
+	font-size: 18px;
+}
+
+.heading {
+	display: flex;
+	list-style: none;
+}
+
+.push {
+	margin-left: auto;
+}
+
+.font {
+	font-family: Poppins;
+	font-weight: '800';
+	font-size: 2em;
+}
